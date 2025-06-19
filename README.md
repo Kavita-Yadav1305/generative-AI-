@@ -1,4 +1,3 @@
-# generative-AI-
 # 🧠 generative-AI- | Deep Learning on MNIST
 
 Welcome to the `generative-AI-` repository! This project showcases core deep learning models — from basic classifiers to generative models — implemented on the MNIST handwritten digit dataset.
@@ -56,19 +55,3 @@ This project explores:
 - Implemented using Keras
 
 ---
-
-## 📊 Dataset
-
-- Dataset: [MNIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/)
-- 60,000 training and 10,000 testing images (28x28 grayscale)
-- Loaded via Keras and Torch datasets
-
----
-
-## 🚀 Getting Started
-
-### 🔧 Requirements
-
-```bash
-pip install numpy matplotlib keras tensorflow torch torchvision
-
