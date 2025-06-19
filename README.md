@@ -19,7 +19,7 @@ This project explores:
 
 | File | Description |
 |------|-------------|
-| `basic-neural-network.ipynb` | Implements a simple fully connected network (MLP) |
+| `basic-neural-network.ipynb` | Implements a simple fully connected network |
 | `CNN_ON_MNIST_DATASET.ipynb` | Builds a CNN classifier for digit recognition |
 | `variational_encoder_on_mnist_dataset.ipynb` | Trains a VAE for digit reconstruction |
 | `gan-mnist-keras.ipynb` | Trains a GAN to generate new MNIST digits |
